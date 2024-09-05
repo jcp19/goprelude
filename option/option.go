@@ -1,6 +1,6 @@
 package option
 
-import "github.com/jcp19/prelude/utils"
+import "github.com/jcp19/goprelude/utils"
 
 type Option[T any] struct {
 	value  T

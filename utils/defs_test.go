@@ -3,7 +3,7 @@ package utils_test
 import (
 	"testing"
 
-	"github.com/jcp19/prelude/utils"
+	"github.com/jcp19/goprelude/utils"
 	"github.com/stretchr/testify/assert"
 )
 

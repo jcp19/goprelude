@@ -3,7 +3,7 @@ package option_test
 import (
 	"testing"
 
-	"github.com/jcp19/prelude/option"
+	"github.com/jcp19/goprelude/option"
 	"github.com/stretchr/testify/assert"
 )
 

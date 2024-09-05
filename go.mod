@@ -1,4 +1,4 @@
-module github.com/jcp19/prelude
+module github.com/jcp19/goprelude
 
 go 1.23.0
 
