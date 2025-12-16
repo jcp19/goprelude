@@ -11,3 +11,7 @@ func Append[T any](s *[]T, elems ...T) {
 func Unreachable() {
 	panic("A suposedly unreachable location was reached.")
 }
+
+func New[T any](t T) *T {
+	return &t
+}
